@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hii! I am Ares Perna Palomar</h1>
+<h1 align="center">👋 Hii! </h1>
 
 <p align="center">
   <b>Bioinformatics </b><br>
@@ -81,7 +81,7 @@ I am currently looking for opportunities where I can apply and further develop m
 ---
 
 ##  📫 How to reach me
-- 📧 **aresperna.21@gmail.com**  
+- 📧 **@gmail.com**  
 - 📍 Barcelona  
 
 ---
