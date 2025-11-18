@@ -17,7 +17,7 @@ I am currently looking for opportunities where I can apply and further develop m
 - ⚡ **Fun fact:** I often test new visualisation techniques just to make data interpretation clearer.
 
 ---
-
+<!--
 ## 💼 Professional Experience
 
 ### 🔬 **Bioinformatics Internship**  
@@ -79,6 +79,7 @@ I am currently looking for opportunities where I can apply and further develop m
 **Scientific Baccalaureate** — Institut Joan Oró, Lleida (2019–2021)  
 
 ---
+-->
 
 ##  📫 How to reach me
 - 📧 **@gmail.com**  
