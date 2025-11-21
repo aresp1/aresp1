@@ -1,90 +1,37 @@
-<h1 align="center">👋 Hii! </h1>
+## Hii, I'm Ares! 
 
-<p align="center">
-  <b>Bioinformatics </b><br>
-  International experience in single-cell, spatial transcriptomics and multi-omics integration for biomedical research.
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/ares-perna-5a12b82b0)
+[![Email](https://img.shields.io/badge/Email-aresperna.21%40gmail.com-red?logo=gmail&style=flat-square)](mailto:aresperna.21@gmail.com)
 
 ---
 
-## 🧬 About Me
-I am a bioinformatician with experience in neuroscience and oncology research.  
-I work with a variety of omics datasets and enjoy developing reproducible analytical pipelines and extracting meaningful insights from complex biological data.
+I am a bioinformatician with experience in neuroscience and oncology research. I work with a variety of omics datasets and enjoy developing reproducible analytical pipelines and extracting meaningful insights from complex biological data.
 
-I am currently looking for opportunities where I can apply and further develop my skills in real-world research or industry environments. I’m motivated to contribute to impactful projects, collaborate with multidisciplinary teams and continue growing as a data-driven problem solver.
-
-- 💬 **Ask me about:** single-cell workflows, spatial transcriptomics, reproducible pipelines or turning messy datasets into clean insights.
-- ⚡ **Fun fact:** I often test new visualisation techniques just to make data interpretation clearer.
-
----
-<!--
-## 💼 Professional Experience
-
-### 🔬 **Bioinformatics Internship**  
-*Armenise-Harvard Laboratory of Brain Disorders and Cancer — CIBIO, University of Trento (2025)*  
-- Development, optimisation and validation of **single-cell** and **spatial transcriptomics** pipelines.  
-- Use of **Seurat, R and CellMarkerAccordion** for preprocessing, clustering and visualisation.
-- Data integration and collaboration with an international, multidisciplinary research team.
-
-### 📘 **Private Math Tutor** (2022–2024)  
-- Improved students’ academic performance (**+25%**)  
-- Explained complex concepts and adapted learning strategies to each student  
+- Interests: single-cell analysis, spatial transcriptomics, machine learning applications in biomedicine.
+- Looking for opportunities in: bioinformatics, omics analysis, or data science.
 
 ---
 
-## 📂 Featured Projects
+#### **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
+
+#### **Bioinformatics**
+![Seurat](https://img.shields.io/badge/Seurat-1B76D1?style=flat&logo=R&logoColor=white)
+![Scanpy](https://img.shields.io/badge/Scanpy-FE7A16?style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
+![Clustering](https://img.shields.io/badge/Clustering-k--means%2C%20hierarchical-4c1?style=flat)
+
+#### **Tools**
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)
 
 
-➡️ *(Link will be added once uploaded to GitHub)*
-
----
-
-## 🛠️ Technical Skills
-
-### **Programming**
-- Python   
-- R 
-- Bash  
-- Git / GitHub  
-- Linux  
-
-### **Bioinformatics**
-- RNA-seq / scRNA-seq  
-- Spatial transcriptomics  
-- Data integration  
-- Data cleaning & QC  
-- PCA, UMAP  
-- Machine Learning (logistic regression, classification)  
-- Pipeline automation  
-
-### **Visualisation**
-- ggplot2  
-- Plotly  
-- Power BI  
-- Shiny  
-
----
-
-## 🌍 Languages
-- **Spanish** — Native  
-- **Catalan** — Native  
-- **English** — Advanced  
-- **German** — Basic  
-- **Italian** — Basic  
-
----
-
-## 🎓 Education
-**BSc in Bioinformatics** — Pompeu Fabra University / UB / UPC / UAB (2021–2025)  
-**Scientific Baccalaureate** — Institut Joan Oró, Lleida (2019–2021)  
-
----
--->
-
-##  📫 How to reach me
-- 📧 **@gmail.com**  
-- 📍 Barcelona  
-
----
-
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
+#### **Visualisation**
+![ggplot2](https://img.shields.io/badge/ggplot2-1A162D?logo=r&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
