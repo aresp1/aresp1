@@ -2,7 +2,7 @@
 ## Hii, I'm Ares! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/ares-perna-5a12b82b0)
-[![Email](https://img.shields.io/badge/Email-aresperna.21%40gmail.com-red?logo=gmail&style=flat-square)](mailto:aresperna.21@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square)](mailto:aresperna.21@gmail.com)
 
 ---
 
