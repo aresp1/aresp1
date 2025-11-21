@@ -1,3 +1,4 @@
+![Profile Photo](profile.jpeg)
 ## Hii, I'm Ares! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/ares-perna-5a12b82b0)
@@ -22,7 +23,7 @@ I am a bioinformatician with experience in neuroscience and oncology research. I
 ![Scanpy](https://img.shields.io/badge/Scanpy-FE7A16?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
-![Clustering](https://img.shields.io/badge/Clustering-k--means%2C%20hierarchical-4c1?style=flat)
+![Clustering](https://img.shields.io/badge/Clustering-k--means%2C%20hierarchical-1B76D1?style=flat)
 
 #### **Tools**
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
